@@ -10,4 +10,7 @@ Lecture 6
 Lecture 7
 [Homework 7 PubSub_LE TEXIER.pdf](https://github.com/user-attachments/files/23432642/Homework.7.PubSub_LE.TEXIER.pdf)
 
+Lecture 8
+
+
 
